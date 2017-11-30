@@ -1,6 +1,6 @@
 # BEGAN Auto Encoder
 
-The autoencoder implemented is based on the one published by the BEGAN research paper.
+The autoencoder is based on the one published by the BEGAN research paper.
 
 ## Getting Started
 
