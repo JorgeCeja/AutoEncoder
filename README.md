@@ -11,10 +11,12 @@ The autoencoder implemented is based on the one published by the BEGAN research 
 
 ## Results
 
-Input images
+Input images:
+
 ![result](images/Input-Images.png)
 
 Reconstructed images:
+
 ![result](images/Reconstructed-Images.png)
 
 ## Built With
